@@ -19,7 +19,7 @@ INSERT INTO sakila.rental(rental_id, rental_date, inventory_id, customer_id, ret
 VALUES
 ('16050',now(),1,130,null,'1',now());
 select * from sakila.rental;
-### Activity 2
-1. Use [dbdiagram.io](https://dbdiagram.io/home) or [draw.io](https://draw.io) to propose a new structure for the `Sakila` database.
-2. Define primary keys and foreign keys for the new database.
+									-- ACTIVITY 2
+-- 1. Use [dbdiagram.io](https://dbdiagram.io/home) or [draw.io](https://draw.io) to propose a new structure for the `Sakila` database.
+-- 2. Define primary keys and foreign keys for the new database.
 
